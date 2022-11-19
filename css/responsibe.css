@@ -1,0 +1,64 @@
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+
+    h1 {
+
+        font-size: 2.5em !important;
+        font-weight: 700 !important;
+
+
+    }
+
+    h2 {
+
+        font-size: 1.5em !important;
+        font-weight: 700 !important;
+
+    }
+
+    h3 {
+
+        font-size: 1em !important;
+        font-weight: 900;
+
+    }
+
+    p {
+        font-size: .6rem !important;
+    }
+
+    footer ul li a {
+        font-size: .5rem !important;
+    }
+
+    .header-img img {
+        width: 250px !important;
+    }
+
+    .about-img img {
+        width: 250px !important;
+    }
+
+    .reviweu-img img {
+        width: 250px !important;
+    }
+
+
+    footer input {
+        padding: 10px;
+        box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        margin-right: 0px !important;
+
+    }
+
+    footer button {
+        border-radius: 10px !important;
+    }
+
+    footer nav {
+        display: none !important;
+    }
+}
